@@ -1,5 +1,5 @@
 # AERES
-Autonomous Emergency Response System – Drone Mission Control &amp; Emergency Dispatch
+Autonomous Emergency Response System – Drone Mission Control & Emergency Dispatch - powered by GlobeTrotta - 
 
  ________  ___  ___  ________  _________  ________
 |\   __  \|\  \|\  \|\   ____\|\___   ___\\   __  \
